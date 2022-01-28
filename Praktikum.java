@@ -1,1 +1,2 @@
-First
+public static main(String[] args) {
+}
